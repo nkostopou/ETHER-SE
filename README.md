@@ -1,7 +1,7 @@
 # software-technology
 <p align="center">
-  ![](./image/1.jpg)
+  <img width="460" height="300" src="./image/1.jpg">
 </p>
-
 <br>
-![](./image/2.jpg) ![](./image/3.jpg)
+![](./image/2.jpg) 
+![](./image/3.jpg)
