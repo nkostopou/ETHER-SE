@@ -4,6 +4,8 @@
 </p>
 <br>
 <p align="center">
+  <img src="./image/7.jpg">
+  <dr>
   <img src="./image/2.jpg">
   <img src="./image/3.jpg">
   <img src="./image/4.jpg">
