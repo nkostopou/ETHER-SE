@@ -1,5 +1,8 @@
 # software-technology
 Project for Software Engineering class.
+<p align="center">
+  <img src="./image/1.jpg">
+</p>
 We designed a travel agency called ETHER. 
 <dr>
 ### Tools
@@ -7,10 +10,6 @@ We designed a travel agency called ETHER.
  * User stories with Gherkin 
  * Structure of APIs using Swagger Editor and wiring them together using Node-RED
  * UI Design with Figma 
-
-<p align="center">
-  <img src="./image/1.jpg">
-</p>
 <br>
 <p align="center">
   <img src="./image/7.jpg">
