@@ -4,7 +4,8 @@
   <img src="./image/1.jpg">
 </p>
 
-Project for Software Engineering class.  <dr>
+Project for Software Engineering class. 
+<br>
 We designed a travel agency called ETHER.
  
 ### Tools
