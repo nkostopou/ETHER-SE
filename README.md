@@ -2,6 +2,7 @@
 Project for Software Engineering class.
 <p align="center">
   <img src="./image/1.jpg">
+  <dr>
   We designed a travel agency called ETHER. 
 </p>
 <dr>
