@@ -1,4 +1,13 @@
 # software-technology
+Project for Software Engineering class.
+We designed a travel agency called ETHER. 
+<dr>
+### Tools
+ * Use case scenarios and diagram with StarUML
+ * User stories with Gherkin 
+ * Structure of APIs using Swagger Editor and wiring them together using Node-RED
+ * UI Design with Figma 
+
 <p align="center">
   <img src="./image/1.jpg">
 </p>
