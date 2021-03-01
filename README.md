@@ -2,8 +2,8 @@
 Project for Software Engineering class.
 <p align="center">
   <img src="./image/1.jpg">
+  We designed a travel agency called ETHER. 
 </p>
-We designed a travel agency called ETHER. 
 <dr>
 ### Tools
  * Use case scenarios and diagram with StarUML
