@@ -1,11 +1,12 @@
 # ETHER
-<p align="center"> Project for Software Engineering class. </p>
-<p align="center"> We designed a travel agency called ETHER. </p>
-
+ 
 <p align="center">
   <img src="./image/1.jpg">
 </p>
 
+Project for Software Engineering class. 
+We designed a travel agency called ETHER.
+ 
 ### Tools
  * Use case scenarios and diagram with StarUML
  * User stories with Gherkin 
