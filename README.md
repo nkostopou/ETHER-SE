@@ -1,4 +1,4 @@
-# software-technology
+# ETHER
 Project for Software Engineering class.
 <br>
 We designed a travel agency called ETHER. 
